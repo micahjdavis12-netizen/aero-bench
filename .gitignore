@@ -1,0 +1,13 @@
+node_modules/
+__pycache__/
+*.pyc
+data/
+.env*
+dist/
+docs/
+site-preview/
+web/baseline/
+web/vendor/
+baseline-assets.zip
+*.log
+.DS_Store

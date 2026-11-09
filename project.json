@@ -1,0 +1,6 @@
+{
+  "name": "Aero Bench",
+  "site_url": "https://micahjdavis12-netizen.github.io/aero-bench/",
+  "allowed_origins": ["https://micahjdavis12-netizen.github.io"],
+  "baseline_id": "baseline-80mph"
+}
