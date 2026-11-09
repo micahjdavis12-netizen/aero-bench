@@ -1,7 +1,7 @@
 {
   "format": 1,
   "version": "0.3.0",
-  "commit": "2a9624005979e589a331201ab304f21068e84a93",
+  "commit": "7004a75f99cc266b833d6ef066ccf1d9fb84fbb9",
   "files": {
     "auth.py": {
       "sha256": "d1cf6813334898f28b5887bb12ea3a8f6d974c883066fd97157bc0b94e4be550",
@@ -48,8 +48,8 @@
       "bytes": 2020
     },
     "web/app.js": {
-      "sha256": "4e4e588814683f4b94efb8cf71cb8cdcef05e26e6b7431359284fb2811a46edf",
-      "bytes": 21788
+      "sha256": "3081b471238889d5f165af69075d08238e95eaed3f3ead3290852cb895f96a73",
+      "bytes": 22588
     },
     "web/connection-ui.js": {
       "sha256": "65d2b09351b00e2768db729dd546b9bc84750b4e538a23322955297eb7e92e0d",
