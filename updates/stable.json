@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "version": "0.3.0",
+  "commit": "2a9624005979e589a331201ab304f21068e84a93",
+  "files": {
+    "auth.py": {
+      "sha256": "d1cf6813334898f28b5887bb12ea3a8f6d974c883066fd97157bc0b94e4be550",
+      "bytes": 2121
+    },
+    "bootstrap_assets.py": {
+      "sha256": "2696d956cdf113cd714c004c2e0c5128575afefdae382c39ce90a17130e5c989",
+      "bytes": 2516
+    },
+    "cfd.py": {
+      "sha256": "c3378a7bcb3d5285d72581e2eb9fa8d648eaa5c1db70d4ffc9565e00e6b52859",
+      "bytes": 14955
+    },
+    "desktop/mac_main.py": {
+      "sha256": "0ad07fd6686dcc3f7cab05932571f6f5d3d550f678a2fc0878da85066e286bcb",
+      "bytes": 10261
+    },
+    "mesh_exports.py": {
+      "sha256": "bdd0139e6b0f348092f533c4920f04b5fca1ee7dcd28f304b2d0bc1629330cd0",
+      "bytes": 2478
+    },
+    "models.py": {
+      "sha256": "5d798b71a248e1cb43fbda9d5abe31bebbcd950802b9de27ba6dd6e791dbab4d",
+      "bytes": 3388
+    },
+    "postprocess.py": {
+      "sha256": "ffe2513b6a849b0c0d9c5892a182ce36318872a2419cc7e89146e8b647c14b19",
+      "bytes": 10547
+    },
+    "project.json": {
+      "sha256": "5b8ca05620cde7154ddab9c256380aff2f134711f9253b744b32bae4a4db5a84",
+      "bytes": 197
+    },
+    "runner.py": {
+      "sha256": "8df4c549036bdd401e3cc7009e7248bac9e0c09128a31c7453d721c6eece5d17",
+      "bytes": 2447
+    },
+    "server.py": {
+      "sha256": "65a7cf5747658598fdf7965005931870a6c2182bd2a4ce9bcc0f7753df1d5c88",
+      "bytes": 13653
+    },
+    "verify_results.py": {
+      "sha256": "be00948dd1ac178703a85eedf0d55cd1be9775cbf3615440fb3703cafc813a26",
+      "bytes": 2020
+    },
+    "web/app.js": {
+      "sha256": "4e4e588814683f4b94efb8cf71cb8cdcef05e26e6b7431359284fb2811a46edf",
+      "bytes": 21788
+    },
+    "web/connection-ui.js": {
+      "sha256": "65d2b09351b00e2768db729dd546b9bc84750b4e538a23322955297eb7e92e0d",
+      "bytes": 2638
+    },
+    "web/favicon.svg": {
+      "sha256": "42183a22d9922bcc6ffb348fb5b45483f859e8b9319ce2b73b9a67e96d4c8a1c",
+      "bytes": 298
+    },
+    "web/index.html": {
+      "sha256": "7cf08600285948110c4c2da61efb24c04a296ed6e151669850cb22b9fd7590f0",
+      "bytes": 11172
+    },
+    "web/style.css": {
+      "sha256": "0d3e2865f3cfec2e9069fb54214a315cb066c369b738c1aebb5a94c3e6b672a2",
+      "bytes": 14822
+    },
+    "web/transport.js": {
+      "sha256": "d52e5ecc2ce699dd54464f84c59ef02234775e811c1b0a8f005f748997f4a1d1",
+      "bytes": 4388
+    }
+  }
+}
